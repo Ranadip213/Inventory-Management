@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/bird-colorful-gradient-design-vector_343694-2506-removebg-preview.png') }}" style="height: 100px;" alt="Application Logo">
